@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hai, saya Nur Alya Nabila!
+Seorang yang berminat dalam dunia pengaturcaraan dan pembangunan perisian.
 
-<!--
-**nuralyanabila/nuralyanabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Berkenaan Saya
+🎓 Sedang belajar / berminat dalam: [Bidang anda, contoh: Web Development / Data Science]
+💻 Bahasa pengaturcaraan utama: [Contoh: HTML, CSS, JavaScript, Python]
+📚 Sekarang sedang mempelajari: GitHub & Markdown
+🎯 Sasaran: Membina projek pertama saya
+🛠️ Kemahiran & Alat (Tools)
+Bahasa: HTML, CSS, JavaScript
+Alat: VS Code, Git, GitHub
+📬 Hubungi Saya
+💼 LinkedIn: Nama LinkedIn Anda
+✉️ Emel: nama.anda@email.com
+✨ Terima kasih kerana melawat profile GitHub saya!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
